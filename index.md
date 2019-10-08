@@ -11,7 +11,12 @@
 </script>
 </head>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
 <body>
+<a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter10.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=br8s9hfktfbhscxqs4gycmczefcpneb4" border="0" title="free website counter" alt="free website counter"></a>
+
+<div id="sfcbr8s9hfktfbhscxqs4gycmczefcpneb4"></div><script type="text/javascript" src="https://counter10.wheredoyoucomefrom.ovh/private/counter.js?c=br8s9hfktfbhscxqs4gycmczefcpneb4&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter10.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=br8s9hfktfbhscxqs4gycmczefcpneb4" border="0" title="free website counter" alt="free website counter"></a></noscript>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ad1 -->
@@ -24,6 +29,7 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 <marquee width="60%" direction="down" height="100px">
 This is a sample scrolling text that has scrolls texts to down.
 </marquee>
@@ -32,13 +38,7 @@ This is a sample scrolling text that has scrolls texts to down.
 <h1>ServiceNow</h1>
 
 <button type="button" class="btn btn-primary">Automated Test framework use Cases</button>
-<button type="button" class="btn btn-secondary">Secondary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-warning">Warning</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-light">Light</button>
-<button type="button" class="btn btn-dark">Dark</button>
+
 
 
 
