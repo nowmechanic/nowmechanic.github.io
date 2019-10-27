@@ -73,6 +73,9 @@ body {
 <div class="navbar">
   <a href="">Home</a>
   <a href="/date_time">Date time Objects</a>
+  <a href="/service_portal">service Portal</a>
+  <a href="/attachments">Attachments</a>
+   
   <div class="dropdown">
     <button class="dropbtn">Dropdown 
       <i class="fa fa-caret-down"></i>
@@ -84,9 +87,6 @@ body {
     </div>
   </div> 
 </div>
-
-<h3>Dropdown Menu inside a Navigation Bar</h3>
-<p>Hover over the "Dropdown" link to see the dropdown menu.</p>
 
 </body>
 </html>
